@@ -1,18 +1,27 @@
-# Laravel and PHP Practice
+# Laravel Queues
 
-This repository was created to continue to learn and practice new and existing features of [Laravel](https://laravel.com/) and [PHP](https://www.php.net/). [Practice branches](https://github.com/TammyTee/lara-php-practice/branches) may also cover concepts like data optimization, code automation, etc.
+## About Queues
 
-| **Current Versions** |  |
-| - | - |
-| Laravel | [![Laravel Version](http://poser.pugx.org/laravel/framework/version)](https://packagist.org/packages/laravel/framework) |
-| PHP | [![PHP Version Require](http://poser.pugx.org/pugx/badge-poser/require/php)](https://packagist.org/packages/pugx/badge-poser) |
+While building your web application, you may have some tasks, such as parsing and storing an uploaded CSV file, that take too long to perform during a typical web request. Thankfully, Laravel allows you to easily create queued jobs that may be processed in the background. By moving time intensive tasks to a queue, your application can respond to web requests with blazing speed and provide a better user experience to your customers.
 
-## Navigating This Repo
+> From the official [Laravel docs on queues](https://laravel.com/docs/queues)
 
-Each feature I intend to work on has it's own dedicated branch where I've outlined specific areas of growth I will work on for that feature.
+## Areas for Growth and Practice
 
-I'll also document any resources I found helpful for studying each feature and a summary of the practice scenario, in case others visiting this repo find them useful.
+- [ ] Creating queued jobs
+- [ ] Setting up queues to run in production
+- [ ] Understanding cache drivers
 
-Please visit the [branch overview page](https://github.com/TammyTee/lara-php-practice/branches) to see an overview of all practice concepts and features in this repo. To keep things organized, a breakdown of each practice scenario for each feature branch will be maintained in individual pull requests for review.
+## Practice Scenario
 
-Thanks for visiting <span>&#128075;&#127998;</span>
+#### Summary
+
+> WIP
+
+#### Explanation
+
+## Helpful Resources
+
+A list of helpful resources for learning Laravel Queues
+
+[//]: # (TODO)  
