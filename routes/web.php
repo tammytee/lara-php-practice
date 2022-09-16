@@ -1,18 +1,18 @@
 <?php
 
-use App\Http\Controllers\ChirpController;
+use App\Http\Livewire\Chirps;
 use Illuminate\Support\Facades\Route;
 
 Route::get('/', function () {
     return view('welcome');
 });
 
-Route::get('/dashboard', function () {
-    return view('dashboard');
-})->middleware(['auth'])->name('dashboard');
+Route::group(['middleware' => 'auth'], function () {
+    Route::get('dashboard', function () {
+        return view('dashboard');
+    })->name('dashboard');
 
-Route::resource('chirps', ChirpController::class)
-    ->only(['index', 'store'])
-    ->middleware(['auth']);
+    Route::get('chirps', Chirps::class)->name('chirps');
+});
 
 require __DIR__ . '/auth.php';
