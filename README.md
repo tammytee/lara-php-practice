@@ -10,15 +10,9 @@ Livewire is a full-stack framework for Laravel that makes building dynamic inter
 
 - [ ] Learn the framework! (V3 is coming :heart_eyes:)
 
-## Practice Scenario
+## Practice Scenarios
 
-#### Summary
-
-This project uses [Laravel Bootcamp](https://bootcamp.laravel.com/) to build Chirper, a microblogging platform.
-
-#### Explanation
-
-[//]: # (TODO)
+- [#1: Building *Chirps* with Livewire](https://github.com/TammyTee/lara-php-practice/pull/1)
 
 ## Helpful Resources
 
