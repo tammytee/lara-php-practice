@@ -29,6 +29,11 @@ class Chirps extends Component
         $this->reset();
     }
 
+    public function deleteChirp(Chirp $chirp)
+    {
+        $chirp->delete();
+    }
+
     public function render()
     {
         return view('livewire.chirps', [
