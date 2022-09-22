@@ -12,7 +12,9 @@ Livewire is a full-stack framework for Laravel that makes building dynamic inter
 
 ## Practice Scenarios
 
-- [#1: Building *Chirps* with Livewire](https://github.com/TammyTee/lara-php-practice/pull/1)
+[#1: Building *Chirps* with Livewire](https://github.com/TammyTee/lara-php-practice/pull/1)
+
+[#2: Testing the *Chirps* component](https://github.com/TammyTee/lara-php-practice/pull/2)
 
 ## Helpful Resources
 
