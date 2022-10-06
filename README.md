@@ -25,3 +25,8 @@ The focus of this branch is to practice ways to improve the performance of Larav
 A list of helpful resources for learning to optimize queries in Laravel
 
 - [Eloquent Performance Patterns](https://laracasts.com/series/eloquent-performance-patterns) - Johnathan Reinink
+
+A bonus list of helpful resources for understanding the limitations of blade components and other parts of laravel and potential solutions
+
+- [Faster Laravel: Surprising Optimization Tips](https://laravel-news.com/faster-laravel-optimizations)
+- An issue referencing how [rendering components in loop impact performance](https://github.com/laravel/framework/issues/43811) (follow up convo)
