@@ -13,8 +13,9 @@ Laravel Tid Bits covers random topics or concepts I've come across in the wild v
 
 ## Practice Scenarios
 
-1. [Squashing Migrations in Laravel](https://github.com/TammyTee/lara-php-practice/pull/3)
-1. [Adding a Content Security Policy to a Laravel App](https://github.com/TammyTee/lara-php-practice/pull/4)
+[#3: Squashing Migrations in Laravel](https://github.com/TammyTee/lara-php-practice/pull/3)
+
+[#4: Adding a Content Security Policy to a Laravel App](https://github.com/TammyTee/lara-php-practice/pull/4)
 
 ## Helpful Resources
 
