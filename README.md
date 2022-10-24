@@ -13,10 +13,12 @@ Laravel Tid Bits covers random topics or concepts I've come across in the wild v
 
 ## Practice Scenarios
 
-> *Check Back Later*
+1. [Squashing Migrations in Laravel](https://github.com/TammyTee/lara-php-practice/pull/3)
 
 ## Helpful Resources
 
 A list of helpful resources for learning Laravel Livewire
 
 1. [StackHawk - Laravel Content Security Policy](https://www.stackhawk.com/blog/laravel-content-security-policy-guide-what-it-is-and-how-to-enable-it/)
+1. [Laracasts - What's new in Laravel 8](https://laracasts.com/series/whats-new-in-laravel-8/episodes/3)
+1. [Database: Migrations - Laravel Documentation](https://laravel.com/docs/9.x/migrations#squashing-migrations)
