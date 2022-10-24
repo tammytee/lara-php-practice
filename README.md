@@ -9,7 +9,7 @@ Laravel Tid Bits covers random topics or concepts I've come across in the wild v
 
 - [x] Squashing Migrations (reasons for doing so, how to, etc)
 - [ ] `DB::raw` - avoiding SQL injection vulnerabilities
-- [ ] Incorporating a Content Security Policy
+- [x] Incorporating a Content Security Policy
 
 ## Practice Scenarios
 
