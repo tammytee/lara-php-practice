@@ -8,6 +8,8 @@ Laravel Tid Bits covers random topics or concepts I've come across in the wild v
 ## Areas for Growth and Practice
 
 - [ ] Squashing Migrations (reasons for doing so, how to, etc)
+- [ ] `DB::raw` - avoiding SQL injection vulnerabilities
+- [ ] Incorporating a Content Security Policy
 
 ## Practice Scenarios
 
@@ -17,4 +19,4 @@ Laravel Tid Bits covers random topics or concepts I've come across in the wild v
 
 A list of helpful resources for learning Laravel Livewire
 
-> *Check Back Later*
+1. [StackHawk - Laravel Content Security Policy](https://www.stackhawk.com/blog/laravel-content-security-policy-guide-what-it-is-and-how-to-enable-it/)
