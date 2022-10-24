@@ -7,7 +7,7 @@ Laravel Tid Bits covers random topics or concepts I've come across in the wild v
 
 ## Areas for Growth and Practice
 
-- [ ] Squashing Migrations (reasons for doing so, how to, etc)
+- [x] Squashing Migrations (reasons for doing so, how to, etc)
 - [ ] `DB::raw` - avoiding SQL injection vulnerabilities
 - [ ] Incorporating a Content Security Policy
 
