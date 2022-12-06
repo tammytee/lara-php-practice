@@ -17,6 +17,8 @@ Laravel Tid Bits covers random topics or concepts I've come across in the wild v
 
 [#4: Adding a Content Security Policy to a Laravel App](https://github.com/TammyTee/lara-php-practice/pull/4)
 
+[#5: Preview SQL Statements for a Migration](https://github.com/TammyTee/lara-php-practice/pull/5)
+
 ## Helpful Resources
 
 A list of helpful resources covering the topics listed above
@@ -26,3 +28,4 @@ A list of helpful resources covering the topics listed above
 1. [Using CSP Headers in a Laravel Application](https://freek.dev/982-using-content-security-policy-headers-in-a-laravel-app)
 1. [Laracasts - What's new in Laravel 8](https://laracasts.com/series/whats-new-in-laravel-8/episodes/3)
 1. [Database: Migrations - Laravel Documentation](https://laravel.com/docs/9.x/migrations#squashing-migrations)
+1. [Laravel Docs - Migrations](https://laravel.com/docs/migrations#running-migrations)
