@@ -26,3 +26,4 @@ A list of helpful resources covering the topics listed above
 1. [Using CSP Headers in a Laravel Application](https://freek.dev/982-using-content-security-policy-headers-in-a-laravel-app)
 1. [Laracasts - What's new in Laravel 8](https://laracasts.com/series/whats-new-in-laravel-8/episodes/3)
 1. [Database: Migrations - Laravel Documentation](https://laravel.com/docs/9.x/migrations#squashing-migrations)
+1. [Laravel Docs - Migrations](https://laravel.com/docs/migrations#running-migrations)
