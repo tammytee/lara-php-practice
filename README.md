@@ -17,6 +17,8 @@ Laravel Tid Bits covers random topics or concepts I've come across in the wild v
 
 [#4: Adding a Content Security Policy to a Laravel App](https://github.com/TammyTee/lara-php-practice/pull/4)
 
+[#5: Preview SQL Statements for a Migration](https://github.com/TammyTee/lara-php-practice/pull/5)
+
 ## Helpful Resources
 
 A list of helpful resources covering the topics listed above
